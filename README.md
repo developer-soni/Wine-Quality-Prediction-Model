@@ -36,6 +36,17 @@ To run this project, you need to have Python installed. You can install the requ
 
 ```pip install -r requirements.txt```
 
+Also create requirements.txt and add these dependencies listed below:
+
+```
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+```
+
+
 # Steps
 1. Data Collection and Preparation
 * Loading Data: The dataset is loaded using Pandas.
